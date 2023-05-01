@@ -1,6 +1,5 @@
 # sorting_algorithms
 
-Description 
 One of our Training in Alx. This repository is based on;
   Basic Exercises to help understand sorting algorithm
   An understanding of Time Complexity Analysis with effect to algorithm and how it's calculated
