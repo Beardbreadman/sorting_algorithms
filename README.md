@@ -1,10 +1,10 @@
-# sorting_algorithms
-
+# sorting_algorithms.
+## Description
 One of our Training in Alx. This repository is based on;
   Basic Exercises to help understand sorting algorithm
   An understanding of Time Complexity Analysis with effect to algorithm and how it's calculated
   Best, Worst and Average Cases of Algorithm complexity using the Big-O notation.
-## Task
+### Task
 0. Bubble sort
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
